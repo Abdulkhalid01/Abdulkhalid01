@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Abdulkhalid01
-- 👀 I’m interested in coding .
-- 🌱 I’m currently learning Backend.
-- 💞️ I’m looking to collaborate on full stack projects.
-- 😄 Pronouns: khalid
-- ⚡ Fun fact: ⏳ The first 90% of a project takes 90% of the time. The last 10% takes another 90%.
+### 👋 Hi, I'm Abdul Khalid
 
-<!---
-Abdulkhalid01/Abdulkhalid01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **MERN Stack Developer** who loves building full-stack web applications and solving real-world problems.
+
+---
+
+### 🔧 Tech Stack
+- **Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+- **Backend**: Node.js, Express.js, REST APIs
+- **Database**: MongoDB, Firebase
+- **Tools**: Git, GitHub, Postman, VS Code
+- **Deployment**: Vercel, Render, Netlify
+
+---
+
+### 🚀 Projects
+
+🔸 [Amazon Clone](https://mern-amazoncloan.vercel.app)  
+E-commerce site with cart, login, and secure checkout.
+
+---
+
+### 📫 Let's Connect
+- 📧 Email: abdulkhalid@example.com
+- 💼 LinkedIn: [linkedin.com/in/abdulkhalid](https://linkedin.com/in/abdul-khalid-23276b261)
