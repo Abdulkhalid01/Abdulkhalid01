@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abdul Khalid<br>I'm a passionate MERN Stack Developer who loves building full-stack web applications and solving real-world problems.<br><br>🔧 Tech Stack<br>Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB, Firebase<br>Tools: Git, GitHub, Postman, VS Code<br>Deployment: Vercel, Render, Netlify<br>🚀 Projects<br>🔸 Amazon Clone<br>E-commerce site with cart, login, and secure checkout.<br><br>📫 Let's Connect<br>📧 Email: abdulkhalid7235@gmail.com<br>💼 LinkedIn: https://linkedin.com/in/abdul-khalid-23276b261
+👋 Hi, I'm Abdul Khalid<br>I'm a passionate MERN Stack Developer who loves building full-stack web applications and solving real-world problems.<br><br>🔧 Tech Stack<br>Frontend: React.js, HTML5, CSS3, Tailwind CSS, Bootstrap<br>Backend: Node.js, Express.js, REST APIs<br>Database: MongoDB, Firebase<br>Tools: Git, GitHub, Postman, VS Code<br>Deployment: Vercel, Render, Netlify<br>🚀 Projects<br>🔸 Amazon Clone: https://mern-amazoncloan.vercel.app<br>E-commerce site with cart, login, and secure checkout.<br><br>📫 Let's Connect<br>📧 Email: abdulkhalid7235@gmail.com<br>💼 LinkedIn: https://linkedin.com/in/abdul-khalid-23276b261
 
 
 ## 🌐 Socials:
