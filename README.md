@@ -22,4 +22,4 @@ E-commerce site with cart, login, and secure checkout.
 
 ### 📫 Let's Connect
 - 📧 Email: abdulkhalid7235@gmail.com
-- 💼 LinkedIn: [(https://linkedin.com/in/abdul-khalid-23276b261)]
+- 💼 LinkedIn: https://linkedin.com/in/abdul-khalid-23276b261
